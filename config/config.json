@@ -1,0 +1,10 @@
+{
+  "development": {
+    "username": "postgres",
+    "password": "copenhagenfox03",
+    "database": "kanbanII",
+    "host": "localhost",
+    "dialect": "postgres"
+  }
+}
+ 
